@@ -1,4 +1,4 @@
-# python-database-model-example
+# Python database model example
 Example of how to separate your SQL code from your logic in Python using a database model
 
 # License
